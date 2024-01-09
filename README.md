@@ -62,3 +62,6 @@ If you're a developer and want to contribute to the codebase, we'd love your hel
 
 If you enjoy playing Sad Square and have ideas for future enhancements but don't want to implement them yourself create an issue with the label "enhancement idea" and describe your concept. This can include new features, improvements, or anything that could make the game even more enjoyable.
 
+
+
+[forgive ChatGPT-ish language 🙇‍♂️]
