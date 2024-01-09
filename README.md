@@ -39,3 +39,6 @@ Purple bricks give you one extra life.
 - Dynamic collision effects
 - Increasing difficulty as the game progresses
 - Interactive HUD elements (score, lives)
+
+### Visuals
+![SadSquare](https://github.com/kuldeepjambhulkar/SadSquare/assets/89466207/b250b7d2-6eac-4791-86d4-bf66e6a2d7b6)
