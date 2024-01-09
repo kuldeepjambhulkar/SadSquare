@@ -9,7 +9,6 @@ Welcome to Sad Square! 🟦
 - [Features](#features)
 - [Visuals](#visuals)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -42,3 +41,24 @@ Purple bricks give you one extra life.
 
 ### Visuals
 ![SadSquare](https://github.com/kuldeepjambhulkar/SadSquare/assets/89466207/b250b7d2-6eac-4791-86d4-bf66e6a2d7b6)
+
+### Requesting New Features
+If you have a cool idea for a new feature, please check the existing issues to ensure it hasn't been requested before. If not, feel free to open a new issue with the label "feature request." Describe your feature in detail.
+
+### Reporting Issues
+If you encounter any issues while playing Sad Square, check the existing issues to see if your problem has already been reported. If not, open a new issue with a clear title and detailed description of the problem. Include steps to reproduce the issue if possible.
+
+### Contributing Code
+
+If you're a developer and want to contribute to the codebase, we'd love your help! Follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and test thoroughly.
+4. Commit your changes with clear and concise messages.
+5. Push your branch to your fork.
+6. Open a pull request to the `main` branch of the original repository.
+
+### Idea for Future Enhancements
+
+If you enjoy playing Sad Square and have ideas for future enhancements but don't want to implement them yourself create an issue with the label "enhancement idea" and describe your concept. This can include new features, improvements, or anything that could make the game even more enjoyable.
+
