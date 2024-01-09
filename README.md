@@ -8,7 +8,7 @@ Welcome to Sad Square! 🟦
 - [Rules](#rules)
 - [Features](#features)
 - [Visuals](#visuals)
-- [Contributing](#contributing)
+- [Contributing](#requesting-new-features)
 
 ## Introduction
 
